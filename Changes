@@ -1,5 +1,8 @@
 Revision history for Perl extension Compress::unLZMA.
 
+0.05  2016-01-03
+        - pod typo fixes (CPAN #86419)
+
 0.04  2010-07-17
         - apply patch for 64-bit systems by Jurgen Weigert
 
